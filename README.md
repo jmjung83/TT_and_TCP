@@ -1,5 +1,5 @@
 ## [Publication Title]
-## Characterizing therapeutic signatures of tran-scription factors in cancer by incorporating profiles in compound treated cells (by Jinmyung Jung)
+## Characterizing therapeutic signatures of transcription factors in cancer by incorporating profiles in compound treated cells (by Jinmyung Jung)
 
 ## [Environment]
 * python 3.7.6
